@@ -24,6 +24,7 @@ dependencies = [
     "safetensors>=0.4",
     "psutil>=5.9",
     "nvidia-ml-py>=12.535.133",
+    "huggingface-hub>=0.23.0",
 ]
 
 [project.scripts]
