@@ -1,2 +1,31 @@
+# Build and Distribution
 build/
 dist/
+*.egg-info/
+
+# Python Virtual Environments (uv & venv)
+.venv/
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Testing and Quality Tools
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Hardware / System specific
+.DS_Store
+*.swp
+
+# Model weights (Accidental downloads)
+*.safetensors
+*.bin
+*.pth
+*.gguf
