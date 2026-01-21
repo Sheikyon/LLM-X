@@ -1,3 +1,5 @@
+from .__about__ import __version__, __author__
+
 from rich.console import Console
 from rich.table import Table
 from rich.panel import Panel
@@ -213,4 +215,4 @@ def display_report(data: dict):
             subtitle=f"[{GREY_DIM}]Values: Weights + KV Cache + Optim. Activations + Engine. [{PURE_RED}]Red[/{PURE_RED}] exceeds available {mem_label}.[/{GREY_DIM}]"
         ))
 
-    console.print(Align.right(f"[{GREY_DIM}]llm-x v0.1.0 • Made by Sheikyon[/{GREY_DIM}]"))
+    console.print(Align.right(f"[{GREY_DIM}]llm-x v{__version__} • Made by {__author__}[/{GREY_DIM}]"))
