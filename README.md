@@ -1,7 +1,7 @@
 # LLM-X 
 
 [![PyPI version](https://img.shields.io/pypi/v/llm-x-py.svg)](https://pypi.org/project/llm-x-py/)
-![GitHub license](https://img.shields.io/github/license/Sheikyon/LLM-X)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ![VRAM Matrix Prediction](https://raw.githubusercontent.com/Sheikyon/LLM-X/main/assets/screenshot_1.jpg)
 
