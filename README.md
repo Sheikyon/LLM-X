@@ -20,7 +20,7 @@ LLM-X is a CLI-first library designed to provide highly-precise, hardware-aware 
    - LLM-X offers a comparative matrix with the resources required for inference according to different levels of quantization and context windows.
 ## Installation
 
-Since it is natively a library, it can be easily installed via [PyPI](https://pypi.org/project/llm-x/) using ``pip``.
+Since it is a native Python library, it can be easily installed via [PyPI](https://pypi.org/project/llm-x/) using ``pip``.
 
 - ```pip install llm-x-py```
 
