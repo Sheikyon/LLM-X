@@ -13,7 +13,7 @@ from llm_x.estimation.memory import (
 )
 from llm_x.utils.hardware import get_gpu_info, get_ram_info
 
-console = Console()
+console = Console(color_system="truecolor", force_terminal=True)
 
 LLM_X_LOGO = """
     __     __     __   ___      _  __
