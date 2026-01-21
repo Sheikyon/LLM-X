@@ -22,7 +22,7 @@ LLM-X is a primarily command-line library for delivering theoretical, yet highly
 
 Since it is natively a library, it can be easily installed via [PyPI](https://pypi.org/project/llm-x/) using ``pip``.
 
-- ```pip install llm-x```
+- ```pip install llm-x-py```
 
 It can also be installed by cloning this repository and installing it locally.
 
