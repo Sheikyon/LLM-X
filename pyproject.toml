@@ -1,7 +1,7 @@
 [project]
 name = "llm-x-py"
 version = "0.1.1"
-description = "Python library for highly-precise, hardware-aware inference memory requirements."
+description = "Python library for precise, hardware-aware inference memory estimation of large language models."
 readme = "README.md"
 requires-python = ">=3.10"
 license = {text = "MIT"}
