@@ -57,3 +57,7 @@ ignore_missing_imports = true
 testpaths = ["tests"]
 pythonpath = ["src"]
 asyncio_mode = "auto"
+
+[project.urls]
+"Source Code" = "https://github.com/Sheikyon/LLM-X"
+"Issues" = "https://github.com/Sheikyon/LLM-X/issues"
