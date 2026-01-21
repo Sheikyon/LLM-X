@@ -7,7 +7,7 @@
 
 ## Introduction
 
-LLM-X is a primarily command-line library for delivering theoretical, yet highly accurate, metrics on the computational resources required for inference in large language models. It handles most SafeTensors (Hugging Face) model architectures.
+LLM-X is a CLI-first library designed to provide highly-precise, hardware-aware metrics for large language model inference requirements. It supports a wide range of architectures via SafeTensors and Hugging Face integration.
 
 ## Key features
 
